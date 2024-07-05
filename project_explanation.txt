@@ -1,0 +1,9 @@
+
+Project 1: Process of Multivariate Exploratory Analysis for the Marketing Area
+
+In this project, the goal is to conduct an extensive data exploration and identify factors that help explain why a 
+customer accepts or rejects a marketing campaign and purchases certain products. Analysis will be carried out and 
+provide a conclusion for decision-makers. Throughout the process, various multivariate analysis techniques will be
+applied.
+ 
+ https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
