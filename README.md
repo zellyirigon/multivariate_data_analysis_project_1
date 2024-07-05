@@ -24,6 +24,8 @@ The dataset for this project is available on [Kaggle](https://www.kaggle.com/dat
 - Insights to improve marketing campaign strategies
 - Recommendations for targeted marketing efforts
 
+  
+
  "I can't change the direction of the wind, but I can adjust my sails to always reach my destination." —Jimmy Dean 🚀
 
 
